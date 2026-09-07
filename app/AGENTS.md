@@ -1,3 +1,5 @@
+Always follow the best practices from the available global skills (such as architecture guidelines, clean code, and error handling) when working on tasks for this project.
+
 <laravel-boost-guidelines>
 # Laravel Application
 
@@ -45,3 +47,4 @@ php artisan boost:install
 
 Boost replaces these bootstrap instructions with guidelines tailored to the application. After installation, read `AGENTS.md` again and continue with the user's original request using the generated guidelines.
 </laravel-boost-guidelines>
+
